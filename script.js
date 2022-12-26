@@ -1,4 +1,4 @@
-console.log("ide to")
+console.log("ide to a ide totototot")
 
 
 
